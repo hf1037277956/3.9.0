@@ -1,0 +1,35 @@
+[37mCommit hash: 002209a992253888d025344f831b28077a5210d1[39m
+[37mBuild date: 1720592077480[39m
+[2J[0;0f[33m┌─────────────────────────────────────────┐[39m
+[33m│ SPT 3.9.0                               │[39m
+[33m│ https://discord.sp-tarkov.com           │[39m
+[33m│                                         │[39m
+[33m│ This work is free of charge             │[39m
+[33m│ If you paid money, you were scammed     │[39m
+[33m│ Commercial use is prohibited            │[39m
+[33m└─────────────────────────────────────────┘[39m
+[37mModLoader: loading: 0 server mods...[39m
+[37mModLoader: order.json is missing, creating...[39m
+[37mServer: executing startup callbacks...[39m
+[37mImporting database...[39m
+[37mDatabase import finished[39m
+[32mStarted webserver at http://127.0.0.1:6969[39m
+[32mStarted websocket at ws://127.0.0.1:6969[39m
+[32mServer is running, do not close while playing SPT, Happy playing!![39m
+[37mCommit hash: 002209a992253888d025344f831b28077a5210d1[39m
+[37mBuild date: 1720592077480[39m
+[2J[0;0f[33m┌─────────────────────────────────────────┐[39m
+[33m│ SPT 3.9.0                               │[39m
+[33m│ https://discord.sp-tarkov.com           │[39m
+[33m│                                         │[39m
+[33m│ This work is free of charge             │[39m
+[33m│ If you paid money, you were scammed     │[39m
+[33m│ Commercial use is prohibited            │[39m
+[33m└─────────────────────────────────────────┘[39m
+[37mModLoader: loading: 0 server mods...[39m
+[37mServer: executing startup callbacks...[39m
+[37mImporting database...[39m
+[37mDatabase import finished[39m
+[32mStarted webserver at http://0.0.0.0:6969[39m
+[32mStarted websocket at ws://0.0.0.0:6969[39m
+[32mServer is running, do not close while playing SPT, Happy playing!![39m

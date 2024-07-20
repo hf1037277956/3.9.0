@@ -1,0 +1,247 @@
+[2024-07-10T06:15:57.207Z] debug: 	Importing configs...
+[2024-07-10T06:15:57.262Z] info: 	Commit hash: 002209a992253888d025344f831b28077a5210d1
+[2024-07-10T06:15:57.263Z] info: 	Build date: 1720592077480
+[2024-07-10T06:15:57.309Z] info: 	ModLoader: user/mod folder missing, creating...
+[2024-07-10T06:15:57.369Z] info: 	Server: executing startup callbacks...
+[2024-07-10T06:15:57.369Z] debug: 	OS: x64 | #1 SMP Tue Mar 26 18:54:05 CST 2024 | linux
+[2024-07-10T06:15:57.370Z] debug: 	CPU: Intel(R) Xeon(R) Platinum cores: 2
+[2024-07-10T06:15:57.370Z] debug: 	RAM: 1.84GB
+[2024-07-10T06:15:57.370Z] debug: 	PATH: L3Zhci90YXJrb3YvdGVzdC1zb3VyY2UvU2VydmVyL3Byb2plY3QvYnVpbGQvU1BULlNlcnZlcg==
+[2024-07-10T06:15:57.370Z] debug: 	PATH: L3Zhci90YXJrb3YvdGVzdC1zb3VyY2UvU2VydmVyL3Byb2plY3QvYnVpbGQvU1BULlNlcnZlcg==
+[2024-07-10T06:15:57.370Z] debug: 	Server: 3.9.0
+[2024-07-10T06:15:57.370Z] debug: 	Date: 1720592077480
+[2024-07-10T06:15:57.371Z] debug: 	Commit: 002209a992253888d025344f831b28077a5210d1
+[2024-07-10T06:15:57.371Z] info: 	Importing database...
+[2024-07-10T06:16:58.918Z] info: 	Database import finished
+[2024-07-10T06:16:58.947Z] debug: 	0 Profiles took: 0.00ms to load.
+[2024-07-10T06:17:07.054Z] succ: 	Started webserver at http://127.0.0.1:6969
+[2024-07-10T06:17:07.055Z] succ: 	Started websocket at ws://127.0.0.1:6969
+[2024-07-10T06:17:07.055Z] succ: 	Server is running, do not close while playing SPT, Happy playing!!
+[2024-07-10T06:17:12.100Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:17:32.099Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:21:17.429Z] debug: 	Importing configs...
+[2024-07-10T06:21:17.492Z] info: 	Commit hash: 002209a992253888d025344f831b28077a5210d1
+[2024-07-10T06:21:17.493Z] info: 	Build date: 1720592077480
+[2024-07-10T06:21:17.522Z] info: 	ModLoader: loading: 0 server mods...
+[2024-07-10T06:21:17.523Z] info: 	ModLoader: order.json is missing, creating...
+[2024-07-10T06:21:17.590Z] info: 	Server: executing startup callbacks...
+[2024-07-10T06:21:17.590Z] debug: 	OS: x64 | #1 SMP Tue Mar 26 18:54:05 CST 2024 | linux
+[2024-07-10T06:21:17.591Z] debug: 	CPU: Intel(R) Xeon(R) Platinum cores: 2
+[2024-07-10T06:21:17.591Z] debug: 	RAM: 1.84GB
+[2024-07-10T06:21:17.591Z] debug: 	PATH: L3Zhci90YXJrb3YvdGVzdC1zb3VyY2UvU2VydmVyL3Byb2plY3QvYnVpbGQvU1BULlNlcnZlcg==
+[2024-07-10T06:21:17.592Z] debug: 	PATH: L3Zhci90YXJrb3YvdGVzdC1zb3VyY2UvU2VydmVyL3Byb2plY3QvYnVpbGQvU1BULlNlcnZlcg==
+[2024-07-10T06:21:17.592Z] debug: 	Server: 3.9.0
+[2024-07-10T06:21:17.592Z] debug: 	Date: 1720592077480
+[2024-07-10T06:21:17.592Z] debug: 	Commit: 002209a992253888d025344f831b28077a5210d1
+[2024-07-10T06:21:17.593Z] info: 	Importing database...
+[2024-07-10T06:21:26.215Z] info: 	Database import finished
+[2024-07-10T06:21:26.282Z] debug: 	0 Profiles took: 0.00ms to load.
+[2024-07-10T06:21:32.697Z] succ: 	Started webserver at http://127.0.0.1:6969
+[2024-07-10T06:21:32.697Z] succ: 	Started websocket at ws://127.0.0.1:6969
+[2024-07-10T06:21:32.697Z] succ: 	Server is running, do not close while playing SPT, Happy playing!!
+[2024-07-10T06:21:37.732Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:21:57.743Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:22:17.765Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:22:37.773Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:22:57.788Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:23:17.802Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:23:37.818Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:23:57.829Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:24:17.839Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:24:37.854Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:24:57.872Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:25:17.889Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:25:37.889Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:25:57.910Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:26:17.919Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:26:37.929Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:26:57.950Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:27:17.959Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:27:37.971Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:27:57.990Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:28:18.004Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:28:38.018Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:28:58.035Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:29:18.034Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:29:38.039Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:30:51.063Z] debug: 	Importing configs...
+[2024-07-10T06:30:51.114Z] info: 	Commit hash: 002209a992253888d025344f831b28077a5210d1
+[2024-07-10T06:30:51.115Z] info: 	Build date: 1720592077480
+[2024-07-10T06:30:51.140Z] info: 	ModLoader: loading: 0 server mods...
+[2024-07-10T06:30:51.191Z] info: 	Server: executing startup callbacks...
+[2024-07-10T06:30:51.192Z] debug: 	OS: x64 | #1 SMP Tue Mar 26 18:54:05 CST 2024 | linux
+[2024-07-10T06:30:51.192Z] debug: 	CPU: Intel(R) Xeon(R) Platinum cores: 2
+[2024-07-10T06:30:51.192Z] debug: 	RAM: 1.84GB
+[2024-07-10T06:30:51.193Z] debug: 	PATH: L3Zhci90YXJrb3YvdGVzdC1zb3VyY2UvU2VydmVyL3Byb2plY3QvYnVpbGQvU1BULlNlcnZlcg==
+[2024-07-10T06:30:51.193Z] debug: 	PATH: L3Zhci90YXJrb3YvdGVzdC1zb3VyY2UvU2VydmVyL3Byb2plY3QvYnVpbGQvU1BULlNlcnZlcg==
+[2024-07-10T06:30:51.193Z] debug: 	Server: 3.9.0
+[2024-07-10T06:30:51.193Z] debug: 	Date: 1720592077480
+[2024-07-10T06:30:51.193Z] debug: 	Commit: 002209a992253888d025344f831b28077a5210d1
+[2024-07-10T06:30:51.194Z] info: 	Importing database...
+[2024-07-10T06:30:59.948Z] info: 	Database import finished
+[2024-07-10T06:31:00.016Z] debug: 	0 Profiles took: 0.00ms to load.
+[2024-07-10T06:31:05.862Z] succ: 	Started webserver at http://0.0.0.0:6969
+[2024-07-10T06:31:05.862Z] succ: 	Started websocket at ws://0.0.0.0:6969
+[2024-07-10T06:31:05.863Z] succ: 	Server is running, do not close while playing SPT, Happy playing!!
+[2024-07-10T06:31:10.898Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:31:30.896Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:31:50.921Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:32:10.927Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:32:30.939Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:32:50.951Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:33:10.963Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:33:30.973Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:33:50.982Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:34:11.000Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:34:31.006Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:34:51.022Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:35:11.029Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:35:31.053Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:35:51.066Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:36:11.075Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:36:31.091Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:36:51.099Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:37:11.124Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:37:31.135Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:37:51.149Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:38:11.166Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:38:31.180Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:38:51.193Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:39:11.201Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:39:31.211Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:39:51.223Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:40:11.412Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:40:31.250Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:40:51.259Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:41:11.273Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:41:31.289Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:41:51.300Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:42:11.312Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:42:31.326Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:42:51.332Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:43:11.398Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:43:31.360Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:43:51.363Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:44:11.375Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:44:31.395Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:44:51.560Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:45:11.424Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:45:31.444Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:45:51.458Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:46:11.471Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:46:31.490Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:46:51.506Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:47:11.521Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:47:31.546Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:47:51.733Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:48:11.579Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:48:31.586Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:48:51.599Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:49:11.745Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:49:31.620Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:49:51.630Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:50:11.632Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:50:31.783Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:50:51.662Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:51:11.676Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:51:31.689Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:51:51.868Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:52:11.721Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:52:31.735Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:52:51.755Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:53:11.906Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:53:31.771Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:53:51.783Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:54:11.792Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:54:31.948Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:54:51.811Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:55:11.819Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:55:31.826Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:55:51.991Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:56:11.867Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:56:31.881Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:56:51.883Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:57:11.892Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:57:31.909Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:57:51.927Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:58:11.940Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:58:31.964Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:58:51.969Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:59:11.986Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:59:32.172Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T06:59:52.001Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:00:12.020Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:00:32.037Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:00:52.052Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:01:12.060Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:01:32.079Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:01:52.239Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:02:12.112Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:02:32.124Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:02:52.134Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:03:12.142Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:03:32.168Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:03:52.174Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:04:12.335Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:04:32.196Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:04:52.219Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:05:12.242Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:05:32.239Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:05:52.256Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:06:12.260Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:06:32.278Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:06:52.286Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:07:12.309Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:07:32.310Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:07:52.316Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:08:12.340Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:08:32.356Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:08:52.372Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:09:12.391Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:09:32.400Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:09:52.415Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:10:12.429Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:10:32.443Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:10:52.451Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:11:12.465Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:11:32.476Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:11:52.488Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:12:12.504Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:12:32.517Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:12:52.530Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:13:12.554Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:13:32.566Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:13:52.582Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:14:12.593Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:14:32.605Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:14:52.620Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:15:12.633Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:15:32.651Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:15:52.724Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:16:12.855Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:16:32.683Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:16:52.703Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:17:12.885Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:17:32.730Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:17:52.737Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:18:12.757Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:18:32.777Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:18:52.939Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:19:12.799Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:19:32.815Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:19:52.832Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:20:12.836Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:20:33.008Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:20:52.856Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:21:12.874Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:21:32.879Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:21:52.895Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:22:13.038Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:22:32.921Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:22:52.935Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:23:12.938Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:23:32.965Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:23:53.117Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:24:12.983Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:24:33.002Z] debug: 	Saved 0 profiles, took: 0.00ms
+[2024-07-10T07:24:53.001Z] debug: 	Saved 0 profiles, took: 0.00ms
